@@ -4,3 +4,8 @@
 /**2 a
  * The way we are returning the anonymous function makes me think that there is a closure
  */
+
+/**
+ * 2 b
+ * The process to calculate it is always the same, the difference is in the outcome
+ */
