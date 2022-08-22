@@ -15,3 +15,18 @@
  * identifying the function and it's relation to the higher function
  */
 
+// Ex 3
+
+function createBase(number) {
+  return function addSix(otherNumber) {
+    console.log(number + otherNumber);
+  }
+
+}
+
+
+
+
+const addSix = createBase(6);
+addSix(10); // returns 16
+addSix(21); // returns 27
