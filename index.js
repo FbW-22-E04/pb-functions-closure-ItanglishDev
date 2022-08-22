@@ -9,3 +9,9 @@
  * 2 b
  * The process to calculate it is always the same, the difference is in the outcome
  */
+
+/**
+ * 2 c
+ * identifying the function and it's relation to the higher function
+ */
+
